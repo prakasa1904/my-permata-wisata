@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Permata Wisata</string>
+    <string name="base_url">http://apis.mypermatawisata.com</string>
+    <string name="url_splash">https://mypermatawisata.com/assets/apps/image/ic_splash/mdpi/screen.png</string>
 </resources>
